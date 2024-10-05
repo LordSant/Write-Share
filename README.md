@@ -1,1 +1,2 @@
 # Write&Share
+El proyecto Write&Share consiste en la creación de un pequeño sitio web de creación y publicación de blogs, en el cual los usuarios podrán compartir lo que piensan, lo que les gusta e incluso cosas de su vida diaria. Con el fin de que otros reaccionen y brinden también sus propias opiniones e historias creando así poco a poco una gran comunidad. Sin embargo, para lograr esto es necesario tener en cuenta algunos aspectos y una guía para así convertir este proyecto en una realidad. 
