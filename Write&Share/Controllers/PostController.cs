@@ -7,7 +7,7 @@ namespace Write_Share.Controllers
 {
     public class PostController
     {
-        public IActionResult CrearPost(Post nuevoPost)
+        /*public IActionResult CrearPost(Post nuevoPost)
         {
             // Lógica para crear un nuevo post
         }
@@ -25,6 +25,6 @@ namespace Write_Share.Controllers
         public IActionResult DetallePost(int postId)
         {
             // Muestra los detalles de un post (comentarios y calificaciones)
-        }
+        }*/
     }
 }
